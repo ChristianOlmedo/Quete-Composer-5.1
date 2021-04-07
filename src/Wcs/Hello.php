@@ -3,6 +3,6 @@
 
 class Hello {
     function talk(){
-        echo "Hello World!";
+        echo "Hello World!" . PHP_EOL;
     }
 } 
