@@ -1,0 +1,14 @@
+{
+    "name": "wilder/quete-composer1",
+    "description": "Quete Composer 5.1",
+    "authors": [
+        {
+            "name": "ChristianOlmedo",
+            "email": "christian.olmedo0210@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    }
+}
